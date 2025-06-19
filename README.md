@@ -85,6 +85,12 @@ A full-stack Q&A web application that allows users to post, search, and answer q
 
 ---
 
+### 📍 **Image Enhancement Application**  
+**Tech Stack:** Java | MVC Pattern | Design Patterns | <a href="https://github.com/brijesh-giri-neu/IME-Image-Enhancement" style="text-decoration: none;">🔗 Git</a>  
+An image processing application that enhances and manipulates RGB images using Java and object-oriented design principles.  
+
+---
+
 ### 📍 **SecureShare – File Transfer and Sharing**  
 **Tech Stack:** Golang | React | Redis | PostgreSQL | Docker | <a href="https://github.com/brijesh-giri-neu/Secure-File-Sharing" style="text-decoration: none;">🔗 Git</a>  
 A secure file transfer platform with encryption, authentication, and scalable cloud storage integration.  
@@ -100,13 +106,6 @@ An AI-powered tool that generates concise abstracts for research papers using ex
 ### 📍 **Text-Guided Audio Generation**  
 **Tech Stack:** Python | Stable Diffusion | Deep Learning | Audio | GenAI | <a href="https://github.com/Chainathan/text-to-music-generation" style="text-decoration: none;">🔗 Git</a>  
 A deep learning model that converts text descriptions into high-fidelity audio using spectrogram-based synthesis.  
-
----
-
-### 📍 **Image Enhancement Application**  
-**Tech Stack:** Java | MVC Pattern | Design Patterns | <a href="https://github.com/brijesh-giri-neu/IME-Image-Enhancement" style="text-decoration: none;">🔗 Git</a>  
-An image processing application that enhances and manipulates RGB images using Java and object-oriented design principles.  
-
 
 
 ## 📫 Connect With Me  

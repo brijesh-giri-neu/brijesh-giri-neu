@@ -100,6 +100,7 @@ An image processing application that enhances and manipulates RGB images using J
 
 ### 📍 **AI-Powered Text Summarizer**  
 **Tech Stack:** Python | Machine Learning | LLM | NLP | GenAI | <a href="https://github.com/Chainathan/research-paper-summarization" style="text-decoration: none;">🔗 Git</a>
+
 An AI-powered tool that generates concise abstracts for research papers using extractive and abstractive summarization techniques.  
 
 ---

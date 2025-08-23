@@ -85,15 +85,16 @@ A full-stack Q&A web application that allows users to post, search, and answer q
 
 ---
 
-### 📍 **Image Enhancement Application**  
-**Tech Stack:** Java | MVC Pattern | Design Patterns | <a href="https://github.com/brijesh-giri-neu/IME-Image-Enhancement" style="text-decoration: none;">🔗 Git</a>  
-An image processing application that enhances and manipulates RGB images using Java and object-oriented design principles.  
+### 📍 **Smart Budget Manager**  
+**Tech Stack:** Java | Firebase | Android Studio | Google Maps API | <a href="https://github.com/brijesh-giri-neu/budget-manager" style="text-decoration: none;">🔗 Git</a> | <a href="https://github.com/brijesh-giri-neu/budget-manager/releases/latest/download/budget-your-life.apk" style="text-decoration: none;">📱 APK</a>
+
+A personal finance management app that tracks expenses, generates reports, and provides location-based reminders.  
 
 ---
 
-### 📍 **Smart Budget Manager**  
-**Tech Stack:** Java | Firebase | Android Studio | Google Maps API | <a href="https://github.com/brijesh-giri-neu/budget-manager" style="text-decoration: none;">🔗 Git</a> | <a href="https://github.com/brijesh-giri-neu/budget-manager/releases/latest/download/budget-your-life.apk" style="text-decoration: none;">📱 APK</a>
-A personal finance management app that tracks expenses, generates reports, and provides location-based reminders.  
+### 📍 **Image Enhancement Application**  
+**Tech Stack:** Java | MVC Pattern | Design Patterns | <a href="https://github.com/brijesh-giri-neu/IME-Image-Enhancement" style="text-decoration: none;">🔗 Git</a>  
+An image processing application that enhances and manipulates RGB images using Java and object-oriented design principles.  
 
 ---
 

@@ -91,14 +91,14 @@ An image processing application that enhances and manipulates RGB images using J
 
 ---
 
-### 📍 **SecureShare – File Transfer and Sharing**  
-**Tech Stack:** Golang | React | Redis | PostgreSQL | Docker | <a href="https://github.com/brijesh-giri-neu/Secure-File-Sharing" style="text-decoration: none;">🔗 Git</a>  
-A secure file transfer platform with encryption, authentication, and scalable cloud storage integration.  
+### 📍 **Smart Budget Manager**  
+**Tech Stack:** Java | Firebase | Android Studio | Google Maps API | <a href="https://github.com/brijesh-giri-neu/budget-manager" style="text-decoration: none;">🔗 Git</a> | <a href="https://github.com/brijesh-giri-neu/budget-manager/releases/latest/download/budget-your-life.apk" style="text-decoration: none;">📱 APK</a>
+A personal finance management app that tracks expenses, generates reports, and provides location-based reminders.  
 
 ---
 
 ### 📍 **AI-Powered Text Summarizer**  
-**Tech Stack:** Python | Machine Learning | LLM | NLP | GenAI | <a href="https://github.com/Chainathan/research-paper-summarization" style="text-decoration: none;">🔗 Git</a>  
+**Tech Stack:** Python | Machine Learning | LLM | NLP | GenAI | <a href="https://github.com/Chainathan/research-paper-summarization" style="text-decoration: none;">🔗 Git</a>
 An AI-powered tool that generates concise abstracts for research papers using extractive and abstractive summarization techniques.  
 
 ---

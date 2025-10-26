@@ -19,7 +19,8 @@
 
 **Organization:** [Chromium](https://chromium.org)  
 **Project:** [GSoC 2025 – Debug WebUI for Tabstrip States](https://summerofcode.withgoogle.com/programs/2025/projects/uxcDW4j2)  
-**Tech Stack:** C++ | Mojo IPC | TypeScript | JavaScript  
+**Tech Stack:** C++ | Mojo IPC | TypeScript | JavaScript <br/>
+**Code Reviews:** [View on Gerrit](https://chromium-review.googlesource.com/q/owner:brijeshvgiri@gmail.com)  
 
 <div style="text-align: justify;">
   Built a developer debugging tool (<code>chrome://tab-strip-internals</code>) within Chromium's massive <b>C++</b> codebase, the open-source project behind <b>Google's Chrome browser</b>, to visualize and inspect TabStripModel, tab groups, and session restore metadata in real time. The feature provides a collapsible tree view powered by Mojo interfaces and a TypeScript frontend for inspection of browser tab states.

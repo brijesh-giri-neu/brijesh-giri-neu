@@ -13,30 +13,6 @@
 
 🎓 **Master of Science, Computer Science** @ Northeastern University (**GPA: 4.00**)  
 
-## 🌟 Featured Project  
-
-### <sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/64px-Chromium_Logo.svg.png" width="24" height="24" style="vertical-align:-4px;"></sub>&#8239;&#8239;&#8239;**Google Summer of Code 2025**
-
-**Organization:** [Chromium](https://chromium.org)  
-**Project:** [GSoC 2025 – Debug WebUI for Tabstrip States](https://summerofcode.withgoogle.com/programs/2025/projects/uxcDW4j2)  
-**Tech Stack:** C++ | Mojo IPC | TypeScript | JavaScript  
-
-<div style="text-align: justify;">
-  Built a developer debugging tool (<code>chrome://tab-strip-internals</code>) within Chromium's massive <b>C++</b> codebase, the open-source project behind <b>Google's Chrome browser</b>, to visualize and inspect TabStripModel, tab groups, and session restore metadata in real time. The feature provides a collapsible tree view powered by Mojo interfaces and a TypeScript frontend for inspection of browser tab states.
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/brijeshvgiri/gsoc-2025-chromium-tabstrip-webui" title="This repository contains the project report" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/View%20Report-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://issues.chromium.org/issues/427204855" title="This is the Buganizer issue tracker for project progress" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Chromium%20Project%20Tracker-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Buganizer Tracker Badge"/>
-  </a>
-</div>
-
 ## 🛠 Tech Stack  
 
 ### **Programming Languages**  
@@ -100,6 +76,30 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
 </p>
+
+## 🌟 Featured Project  
+
+### <sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/64px-Chromium_Logo.svg.png" width="24" height="24" style="vertical-align:-4px;"></sub>&#8239;&#8239;&#8239;**Google Summer of Code 2025**
+
+**Organization:** [Chromium](https://chromium.org)  
+**Project:** [GSoC 2025 – Debug WebUI for Tabstrip States](https://summerofcode.withgoogle.com/programs/2025/projects/uxcDW4j2)  
+**Tech Stack:** C++ | Mojo IPC | TypeScript | JavaScript  
+
+<div style="text-align: justify;">
+  Built a developer debugging tool (<code>chrome://tab-strip-internals</code>) within Chromium's massive <b>C++</b> codebase, the open-source project behind <b>Google's Chrome browser</b>, to visualize and inspect TabStripModel, tab groups, and session restore metadata in real time. The feature provides a collapsible tree view powered by Mojo interfaces and a TypeScript frontend for inspection of browser tab states.
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/brijeshvgiri/gsoc-2025-chromium-tabstrip-webui" title="This repository contains the project report" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20Report-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://issues.chromium.org/issues/427204855" title="This is the Buganizer issue tracker for project progress" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Chromium%20Project%20Tracker-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Buganizer Tracker Badge"/>
+  </a>
+</div>
 
 ## 📌 Projects  
 
